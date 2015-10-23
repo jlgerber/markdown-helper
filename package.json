@@ -1,10 +1,9 @@
 {
   "name": "markdown-helper",
   "main": "./lib/markdown-helper",
-  "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [
-  ],
+  "version": "0.1.0",
+  "description": "When supplied command is active, all markdown is opened pre-rendered." ,
+  "keywords":[ "markdown", "render"],
   "activationCommands": {
     "atom-workspace": "markdown-helper:toggle"
   },
