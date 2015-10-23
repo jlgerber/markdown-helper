@@ -10,7 +10,7 @@
   {
     'label': 'Packages'
     'submenu': [
-      'label': 'markdown-helper'
+      'label': 'Markdown Helper'
       'submenu': [
         {
           'label': 'Toggle'
